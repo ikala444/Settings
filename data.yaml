@@ -1,0 +1,10 @@
+# Пути до выборок
+train: images\train
+val: images\val
+test: images\test
+
+# Количество классов
+nc: 4
+
+# Имена классов
+names: ['simple n', 'militarry n', 'goverment n', 'police n']
